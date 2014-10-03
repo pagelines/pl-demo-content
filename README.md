@@ -1,11 +1,13 @@
 # PageLines Demo Content
 ===============
 
-In this public repository you will find the demo content (.xml file) and configuration file (pl-config.json file) for all PageLines created DMS-based themes.
+In this public repository you will find the demo content (.xml file) and configuration file (pl-config.json file) for all PageLines created DMS-based themes.  
+
+In order to get the content you want, you will need to download this entire repository.  On the right side of this page, click the button that says "Download ZIP".  Once you've downloaded the zip file, unzip it and locate the demo content folder that corresponds to the theme you're using.
 
 ### How To Install
 
-To install the demo content and activate the demo's settings you must do the following.
+To install the demo content and activate the demo's settings you must do the following:
 
 1. Install the WordPress Importer
 2. Go to Tools > Import > From WordPress
